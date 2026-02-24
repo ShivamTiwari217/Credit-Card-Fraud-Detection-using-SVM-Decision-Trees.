@@ -1,4 +1,10 @@
-# Credit-Card-Fraud-Detection-using-SVM-Decision-Trees.
+# FraudShieldv1.0.
+
+Demo: https://credit-card-fraud-detection-nbjywyfhnawxxzvgakzetc.streamlit.app/
+
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/73d590d2-c2ac-4a8d-8ee3-0b041f8815fb" />
+
+
 Credit Card Fraud Detection using Python and Scikit-Learn. Features data preprocessing, class imbalance handling (sample weighting), and model evaluation using ROC-AUC scores.
 
 Context
