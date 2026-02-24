@@ -13,4 +13,4 @@ Context
 
 Goal
 
-   The objective of this project is to build a robust machine learning pipeline capable of identifying fraudulent transactions with high precision. By leveraging Scikit-Learn, this project compares two classifiers—Decision Tree and Linear SVC—specifically tuned to handle imbalanced data using sample weighting techniques. The ultimate goal is to maximize the model's ability to catch fraud (High Recall/ROC-AUC) while maintaining a realistic balance of false positives.
+   The objective of this project is to build a robust machine learning pipeline capable of identifying fraudulent transactions with high precision. By leveraging Scikit-Learn, this project uses the Ensemble Learning Model XGBoost, specifically tuned to handle imbalanced data using sample weighting techniques. The ultimate goal is to maximize the model's ability to catch fraud (High Recall/ROC-AUC) while maintaining a realistic balance of false positives.
